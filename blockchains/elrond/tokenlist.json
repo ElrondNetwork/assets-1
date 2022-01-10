@@ -1,0 +1,21 @@
+{
+    "name": "Trust Wallet: Elrond",
+    "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+    "timestamp": "2022-01-20T00:00:00.000Z",
+    "tokens": [
+        {
+            "asset": "c508_tEGLDMEX-0be9e5",
+            "type": "elrond-esdt",
+            "id": "EGLDMEX-0be9e5",
+            "name": "EGLDMEXLP",
+            "symbol": "EGLDMEX",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/elrond/assets/EGLDMEX-0be9e5/logo.png"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}

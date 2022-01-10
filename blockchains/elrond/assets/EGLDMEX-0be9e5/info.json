@@ -1,0 +1,11 @@
+{
+  "type": "elrond-esdt",
+  "id": "EGLDMEX-0be9e5",
+  "name": "EGLDMEXLP",
+  "symbol": "EGLDMEX",
+  "decimals": 18,
+  "status": "active",
+  "website": "https://maiar.exchange",
+  "explorer": "https://explorer.elrond.com/tokens/EGLDMEX-0be9e5",
+  "description": "Liquidity Provider (LP) Token obtained by adding liquidity in the EGLD/MEX pool on the Maiar DEX."
+}
