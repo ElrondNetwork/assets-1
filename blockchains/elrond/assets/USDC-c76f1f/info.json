@@ -1,0 +1,12 @@
+{
+  "type": "elrond-esdt",
+  "id": "USDC-c76f1f",
+  "name": "WrappedUSDC",
+  "symbol": "USDC",
+  "decimals": 6,
+  "status": "active",
+  "website": "",
+  "explorer": "https://explorer.elrond.com/tokens/USDC-c76f1f",
+  "api": "https://api.elrond.com/tokens/USDC-c76f1f",
+  "description": "USDC stablecoin originating on Ethereum, bridged as an ESDT token on Elrond. 1 USDC = 1 WrappedUSDC"
+}
