@@ -1,0 +1,13 @@
+{
+    "type": "sft",
+    "id": "MEXRIDEF-bf0320",
+    "name": "MEXRIDEStaked",
+    "symbol": "MEXRIDEF",
+    "decimals": 18,
+    "status": "active",
+    "description": "This token tracks your stake in the LKMEX farm with RIDE rewards.",
+    "website": "https://maiar.exchange",
+    "explorer": "https://explorer.elrond.com/collections/MEXRIDEF-bf0320",
+    "api": "https://api.elrond.com/collections/EGLDMEXF-5bcc57/MEXRIDEF-bf0320",
+    "links": []
+}

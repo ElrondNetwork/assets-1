@@ -1,0 +1,30 @@
+{
+    "type": "esdt",
+    "id": "AERO-458bbf",
+    "name": "Aerovek",
+    "symbol": "AERO",
+    "decimals": 18,
+    "status": "active",
+    "description": "Aerovek is a social economic platform that aims to elevate the aviation industry using web3 technologies built on the Elrond Blockchain",
+    "website": "https://www.aerovek.com",
+    "explorer": "https://explorer.elrond.com/collections/AERO-458bbf",
+    "api": "https://api.elrond.com/collections/EGLDMEXF-5bcc57/AERO-458bbf",
+    "links": [
+        {
+            "name": "blog",
+            "url": "https://www.aerovek.com"
+        },
+        {
+            "name": "email",
+            "url": "support@aerovek.com"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/AerovekAviation"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://www.aerovek.com/summary/"
+        }
+    ]
+}

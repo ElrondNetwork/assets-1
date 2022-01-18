@@ -1,0 +1,13 @@
+{
+    "type": "esdt",
+    "id": "QWT-46ac01",
+    "name": "QoWatt",
+    "symbol": "QWT",
+    "decimals": 6,
+    "status": "active",
+    "description": "QoWatt Tokens, first EV charging network using Blockchain in Europe",
+    "website": "https://qowatt.network",
+    "explorer": "https://explorer.elrond.com/collections/QWT-46ac01",
+    "api": "https://api.elrond.com/collections/EGLDMEXF-5bcc57/QWT-46ac01",
+    "links": []
+}

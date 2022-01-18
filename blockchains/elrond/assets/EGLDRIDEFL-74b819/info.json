@@ -1,0 +1,13 @@
+{
+    "type": "sft",
+    "id": "EGLDRIDEFL-74b819",
+    "name": "EGLDRIDELPStakedLK",
+    "symbol": "EGLDRIDEFL",
+    "decimals": 18,
+    "status": "active",
+    "description": "This token tracks your LP token stake in the EGLD/RIDE farm on the Maiar DEX.",
+    "website": "https://maiar.exchange",
+    "explorer": "https://explorer.elrond.com/collections/EGLDRIDEFL-74b819",
+    "api": "https://api.elrond.com/collections/EGLDMEXF-5bcc57/EGLDRIDEFL-74b819",
+    "links": []
+}

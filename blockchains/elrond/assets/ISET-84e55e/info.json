@@ -1,0 +1,30 @@
+{
+    "type": "esdt",
+    "id": "ISET-84e55e",
+    "name": "IsengardToken",
+    "symbol": "ISET",
+    "decimals": 6,
+    "status": "active",
+    "description": "ISET is the Official token of the Isengard Marketplace",
+    "website": "https://isengard.market",
+    "explorer": "https://explorer.elrond.com/collections/ISET-84e55e",
+    "api": "https://api.elrond.com/collections/EGLDMEXF-5bcc57/ISET-84e55e",
+    "links": [
+        {
+            "name": "email",
+            "url": "contact@isengardmarket.com"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/IsengardMarket"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://isengard.market/assets/whitepaper.pdf"
+        },
+        {
+            "name": "instagram",
+            "url": "https://instagram.com/isengard.market/"
+        }
+    ]
+}

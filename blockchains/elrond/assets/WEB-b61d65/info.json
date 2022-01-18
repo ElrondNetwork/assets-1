@@ -1,12 +1,13 @@
 {
-  "type": "elrond-esdt",
-  "id": "WEB-b61d65",
-  "name": "Web",
-  "symbol": "WEB",
-  "decimals": 18,
-  "status": "active",
-  "website": "https://www.elrond.com",
-  "explorer": "https://explorer.elrond.com/tokens/WEB-b61d65",
-  "api": "https://api.elrond.com/tokens/WEB-b61d65",
-  "description": "WEB is a test token for testing ESDT functionality.",
+    "type": "esdt",
+    "id": "WEB-b61d65",
+    "name": "Web",
+    "symbol": "WEB",
+    "decimals": 18,
+    "status": "active",
+    "description": "WEB is a test token for testing ESDT functionality.",
+    "website": "https://www.elrond.com",
+    "explorer": "https://explorer.elrond.com/collections/WEB-b61d65",
+    "api": "https://api.elrond.com/collections/EGLDMEXF-5bcc57/WEB-b61d65",
+    "links": []
 }

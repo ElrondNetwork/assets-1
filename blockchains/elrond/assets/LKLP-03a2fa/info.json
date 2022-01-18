@@ -1,0 +1,13 @@
+{
+    "type": "sft",
+    "id": "LKLP-03a2fa",
+    "name": "LockedLP",
+    "symbol": "LKLP",
+    "decimals": 18,
+    "status": "active",
+    "description": "Liquidity Provider (LP) Token obtained by adding liquidity using LKMEX in the EGLD/MEX pool on the Maiar DEX.",
+    "website": "https://maiar.exchange",
+    "explorer": "https://explorer.elrond.com/collections/LKLP-03a2fa",
+    "api": "https://api.elrond.com/collections/EGLDMEXF-5bcc57/LKLP-03a2fa",
+    "links": []
+}

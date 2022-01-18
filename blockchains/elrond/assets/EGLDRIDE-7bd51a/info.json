@@ -1,0 +1,13 @@
+{
+    "type": "esdt",
+    "id": "EGLDRIDE-7bd51a",
+    "name": "EGLDRIDELP",
+    "symbol": "EGLDRIDE",
+    "decimals": 18,
+    "status": "active",
+    "description": "Liquidity Provider (LP) Token obtained by adding liquidity in the EGLD/RIDE pool on the Maiar DEX.",
+    "website": "https://maiar.exchange",
+    "explorer": "https://explorer.elrond.com/collections/EGLDRIDE-7bd51a",
+    "api": "https://api.elrond.com/collections/EGLDMEXF-5bcc57/EGLDRIDE-7bd51a",
+    "links": []
+}
