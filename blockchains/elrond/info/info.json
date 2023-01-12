@@ -10,6 +10,10 @@
     "status": "active",
     "links": [
         {
+            "name": "docs",
+            "url": "https://docs.multiversx.com"
+        },
+        {
             "name": "github",
             "url": "https://github.com/multiversx"
         },
@@ -20,6 +24,10 @@
         {
             "name": "facebook",
             "url": "https://facebook.com/MultiversX"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/MultiversX"
         },
         {
             "name": "blog",
