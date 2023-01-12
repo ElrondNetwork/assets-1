@@ -7,5 +7,35 @@
     "symbol": "EGLD",
     "type": "coin",
     "decimals": 18,
-    "status": "active"
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/multiversx"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MultiversX"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/MultiversX"
+        },
+        {
+            "name": "blog",
+            "url": "https://multiversx.com/blog"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://github.com/multiversx/mx-chain-whitepaper/blob/master/out/MultiversX_Whitepaper_EN.pdf"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/multiversx"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/multiversx"
+        }
+    ]
 }

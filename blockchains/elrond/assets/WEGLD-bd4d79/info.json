@@ -32,14 +32,6 @@
         {
             "name": "github",
             "url": "https://github.com/multiversx"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/wrapped-elrond-egld"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/wrapped-elrond"
         }
     ],
     "tags": [

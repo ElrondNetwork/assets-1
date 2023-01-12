@@ -35,15 +35,15 @@
         },
         {
             "name": "source_code",
-            "url": "https://github.com/multiversx/sc-dex-rs"
+            "url": "https://github.com/multiversx/mx-exchange-sc"
         },
         {
             "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/maiar"
+            "url": "https://coinmarketcap.com/currencies/xexchange"
         },
         {
             "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/maiar-dex"
+            "url": "https://coingecko.com/en/coins/xexchange"
         }
     ],
     "tags": [
