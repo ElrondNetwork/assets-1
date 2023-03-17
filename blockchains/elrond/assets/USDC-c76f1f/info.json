@@ -1,7 +1,7 @@
 {
     "type": "ESDT",
     "id": "USDC-c76f1f",
-    "name": "Wrapped USDC",
+    "name": "Wrapped USDC (on MultiversX)",
     "symbol": "USDC",
     "decimals": 6,
     "status": "active",

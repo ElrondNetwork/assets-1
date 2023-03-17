@@ -1,7 +1,7 @@
 {
     "type": "ESDT",
     "id": "EGLDUSDC-594e5e",
-    "name": "EGLD/USDC LP",
+    "name": "EGLD/USDC LP (on MultiversX)",
     "symbol": "EGLDUSDC",
     "decimals": 18,
     "status": "active",
